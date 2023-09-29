@@ -4,7 +4,7 @@
 	<br>
 </h1>
 
-# Awesome Hacktoberfest Swag List 2023 🌳🎁
+# Awesome Hacktoberfest Swag 2023 🌳🎁
 
 Welcome to the Awesome Hacktoberfest Swag List 2023! This year, Hacktoberfest is all about turning those green squares on your GitHub profile into real green trees in the real world! 🌳🌍 
 Yes, you heard it right! It's all about coding for a cause, making our planet greener and healthier! 🌍💚
