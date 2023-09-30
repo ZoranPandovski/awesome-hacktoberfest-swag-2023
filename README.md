@@ -9,9 +9,7 @@
 Welcome to the Awesome Hacktoberfest Swag List 2023! This year, Hacktoberfest is all about turning those green squares on your GitHub profile into real green trees in the real world! 🌳🌍 
 Yes, you heard it right! It's all about coding for a cause, making our planet greener and healthier! 🌍💚
 
-Of course, while saving the planet is the superhero task we all have, who says superheroes can’t enjoy some swag? 😎 
-
-So here’s the deal: While our code is branching and leafing out to replenish the Earth, we can still enjoy the second, fun part - collecting some delightful swag!
+Of course, saving the planet is our superhero task, but who says superheroes can’t enjoy some swag? 😎 
 
 This repo is your treasure map to navigate through the forest of code and leaves and find those hidden treasures! 🗺️💎 So, let’s make the world greener, one pull request at a time, and enjoy some cool treasures along the journey!
 
@@ -33,12 +31,6 @@ Remember, in this journey, trees are the real gems, and swag is the sparkly conf
 
 So, happy coding, happy planting, and happy swag-collecting!
 
-
-## Table of Contents
-- [Organizations](#organizations)
-  - [Company/Organization Name](#companyorganization-name)
-- [Contributing](#contributing)
-
 ## Organizations
 
 ### DigitalOcean, Appwrite, & Illacloud 🌊☁️
@@ -54,7 +46,23 @@ So, happy coding, happy planting, and happy swag-collecting!
         *  Submitted in a repo labeled hacktoberfest AND
         *  Either Merged or Approved
 
+### MindsDB 🐻
 
+* Webpage: 🔗 [Link](https://mindsdb.com/hacktoberfest)
+* Rewards: 💻
+   *  [2 Razer Blade 16 laptops](https://www.razer.com/gaming-laptops/Razer-Blade-16/RZ09-0483SEJ3-R3U1)
+* Swag: 🌳🎁
+   * [Tees & Apparel](https://store.covver.io/mindsdb/collections/swag-collection?tag=HATS_BAGS)
+   * [Home & Accessories, Hats & Begs](https://store.covver.io/mindsdb/collections/swag-collection?tag=HATS_BAGS)
+   * [Course Vouchers](https://mindsdb.com/hacktoberfest)
+* Requirements: 📜 Make PR, Earn Credits, Buy SWAG
+* How to sign up: 🖊️ [MindsDB Hacktoberfest Website]([https://hacktoberfest.com/](https://mindsdb.com/hacktoberfest))
+* Notes:
+    * How to participate:
+        * Check GitHub issues labeled `hacktoberfest`, `help-wanted`. You’ll see the number of credits you can earn inside each issue. If you want to suggest a new idea for the contribution, please submit a new issue.
+        * Submit the PR
+
+     
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
