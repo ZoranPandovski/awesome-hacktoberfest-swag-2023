@@ -73,6 +73,19 @@ So, happy coding, happy planting, and happy swag-collecting!
     * How to participate:
         * [Check TBD GitHub repo](https://github.com/TBD54566975/developer.tbd.website#tbd-developer-site)
      
+### hyperswitch
+
+* Webpage: 🔗 [Link](https://hyperswitch.io/hacktoberfest)
+* Swag: 🌳🎁
+   * T-shirt and other goodies.
+* Requirements: 📜 Win a swag pack for every merged PR!
+* How to sign up: 🖊️ Sign up on [hyperswitch.io](https://app.hyperswitch.io/login)
+* Notes:
+    * How to participate:
+        * Check out the hyperswitch [repo](https://github.com/juspay/hyperswitch)
+        * Find an issue you can work on.
+        * Submit the PR
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
