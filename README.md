@@ -61,7 +61,17 @@ So, happy coding, happy planting, and happy swag-collecting!
     * How to participate:
         * Check GitHub issues labeled `hacktoberfest`, `help-wanted`. You’ll see the number of credits you can earn inside each issue. If you want to suggest a new idea for the contribution, please submit a new issue.
         * Submit the PR
+          
+### TBD 🐻
 
+* Webpage: 🔗 [Link](https://dev.to/tbdevs/preptember-diaries-gearing-up-for-hacktoberfest-2023-8o2)
+* Swag: 🌳🎁
+   * [20 T-Shirts, Hats or Hoodies](https://www.tbd.shop/)
+* Requirements: 📜 Made it to the top 20 contributors with merged PRs
+* How to sign up: 🖊️ [Preptember Announcment](https://dev.to/tbdevs/preptember-diaries-gearing-up-for-hacktoberfest-2023-8o2)
+* Notes:
+    * How to participate:
+        * [Check TBD GitHub repo](https://github.com/TBD54566975/developer.tbd.website#tbd-developer-site)
      
 ## Contributing
 
