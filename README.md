@@ -86,6 +86,15 @@ So, happy coding, happy planting, and happy swag-collecting!
         * Find an issue you can work on.
         * Submit the PR
 
+### Hacksquad
+
+* Webpage: 🔗 [Link](https://hachsquad.dev/)
+* Swag: 🌳🎁
+   * T-shirt, hoodie, bottle and other goodies.
+* Requirements: 📜 Top 10 teams will win a swag!
+* How to sign up: 🖊️ Sign up on [hacksquad.dev](https://hachsquad.dev/)
+
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
