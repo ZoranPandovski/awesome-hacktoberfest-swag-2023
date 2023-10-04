@@ -88,7 +88,7 @@ So, happy coding, happy planting, and happy swag-collecting!
 
 ### Hacksquad
 
-* Webpage: 🔗 [Link](https://hachsquad.dev/)
+* Webpage: 🔗 [Link](https://hacksquad.dev/)
 * Swag: 🌳🎁
    * T-shirt, hoodie, bottle and other goodies.
 * Requirements: 📜 Top 10 teams will win a swag!
