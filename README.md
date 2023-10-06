@@ -1,5 +1,5 @@
 <h1  align="center">
-	<img width="800" src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F602344459%2F297853841506%2F1%2Foriginal.20230920-142601?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=416%2C0%2C3336%2C1668&s=65d2fe39f8749ebc9c01045a430fa45c">
+	<img width="800" src="https://user-images.githubusercontent.com/42183055/272649625-c70457fa-4222-4bef-8360-3f2444d474e1.jpg">
 	<br>
 	<br>
 </h1>
