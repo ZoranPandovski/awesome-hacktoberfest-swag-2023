@@ -94,6 +94,14 @@ So, happy coding, happy planting, and happy swag-collecting!
 * Requirements: 📜 Top 10 teams will win a swag!
 * How to sign up: 🖊️ Sign up on [hacksquad.dev](https://hachsquad.dev/)
 
+### Ballerina - WSO2
+
+* Webpage: 🔗 [Link](https://ballerina.io/hacktoberfest/)
+* Swag: 🌳🎁
+   * Amazon voucher and stickers. Low/No Code contributions: Amazon vouchers, t-shirt, and stickers.
+* Requirements: 📜 Accepted PR which fixes hacktoberfest labeled issue in the GitHub project.
+* How to sign up: [Ballerina Hacktoberfest Website](https://ballerina.io/hacktoberfest/)
+
 
 ## Contributing
 
