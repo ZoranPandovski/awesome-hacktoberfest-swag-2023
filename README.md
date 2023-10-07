@@ -110,6 +110,15 @@ So, happy coding, happy planting, and happy swag-collecting!
         * Reach out if you want us to create a repo for you in [Team Hanko](https://github.com/teamhanko)
 
 
+### Ballerina - WSO2
+
+* Webpage: 🔗 [Link](https://ballerina.io/hacktoberfest/)
+* Swag: 🌳🎁
+   * Amazon voucher and stickers. Low/No Code contributions: Amazon vouchers, t-shirt, and stickers.
+* Requirements: 📜 Accepted PR which fixes hacktoberfest labeled issue in the GitHub project.
+* How to sign up: [Ballerina Hacktoberfest Website](https://ballerina.io/hacktoberfest/)
+
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
