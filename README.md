@@ -1,7 +1,5 @@
 <h1  align="center">
-	<img width="800" src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F602344459%2F297853841506%2F1%2Foriginal.20230920-142601?w=1000&auto=format%2Ccompress&q=75&sharp=10&rect=416%2C0%2C3336%2C1668&s=65d2fe39f8749ebc9c01045a430fa45c">
-	<br>
-	<br>
+	<img width="800" src="hf10_banner.png">
 </h1>
 
 # Awesome Hacktoberfest Swag 2023 🌳🎁
@@ -93,6 +91,23 @@ So, happy coding, happy planting, and happy swag-collecting!
    * T-shirt, hoodie, bottle and other goodies.
 * Requirements: 📜 Top 10 teams will win a swag!
 * How to sign up: 🖊️ Sign up on [hacksquad.dev](https://hachsquad.dev/)
+
+### Hanko
+
+* Webpage: 🔗 [Link](https://www.hanko.io/hackathon)
+* Swag: 🌳🎁
+   * A MacBook Pro 14" M2, 10 [Yubikey 5C](https://www.amazon.in/Yubico-YubiKey-Factor-Authentication-Security/dp/B07HBCTYP1) and other Hanko Swags.
+* Requirements:
+	* Build with Hanko: Create any functioning app that can be hosted online with Hanko auth integrated!
+	* Get creative (bonus challenge): Customize Hanko Elements. The most unique (yet functional) design takes the crown.
+* How to sign up: 🖊️ Sign up on [Hanko](https://www.hanko.io/hackathon)
+* Notes:
+    * How to participate:
+        * Build & Host: Your contributions should be hosted online. Provide a live link on any platform of your choice.
+        * Documentation: Ensure you have a public repository with a comprehensive README document.
+        * Star us: Head over to the [Hanko GitHub](https://github.com/teamhanko/hanko) and give us a star
+        * Spread the Word: While it's not mandatory, share your creations on social media. Don't forget to tag @hanko_io so we can retweet and amplify your shares!
+        * Reach out if you want us to create a repo for you in [Team Hanko](https://github.com/teamhanko)
 
 
 ## Contributing
