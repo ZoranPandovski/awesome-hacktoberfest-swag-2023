@@ -118,6 +118,14 @@ So, happy coding, happy planting, and happy swag-collecting!
 * Requirements: 📜 Accepted PR which fixes hacktoberfest labeled issue in the GitHub project.
 * How to sign up: [Ballerina Hacktoberfest Website](https://ballerina.io/hacktoberfest/)
 
+### Dev Community
+
+* Webpage: 🔗 [Link](https://dev.to/devteam/hacktoberfest-2023-is-here-58bo)
+* Swag: 🌳🎁 DEV Badges
+* Requirements: Write posts on DEV and remember to use the official Hacktoberfest tag `#hacktoberfest23` when sharing your posts on DEV to maximize visibility.
+* How to sign up: 🖊️ [DEV Website](https://dev.to/devteam/hacktoberfest-2023-is-here-58bo)
+
+
 
 ## Contributing
 
