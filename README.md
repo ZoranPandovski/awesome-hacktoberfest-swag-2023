@@ -1,6 +1,4 @@
-<h1  align="center">
-	<img width="800" src="hf10_banner.png">
-</h1>
+![HacktoberFest 2023 banner](https://res.cloudinary.com/denkuysrh/image/upload/v1694956146/Article%20Images/Timonwa%27s%20Notes/Hacktoberfest/hf10_email_header_600x360px_rundt2.jpg)
 
 # Awesome Hacktoberfest Swag 2023 🌳🎁
 
