@@ -58,7 +58,7 @@ So, happy coding, happy planting, and happy swag-collecting!
 * Notes:
     * How to participate:
         * Check GitHub issues labeled `hacktoberfest`, `help-wanted`. You’ll see the number of credits you can earn inside each issue. If you want to suggest a new idea for the contribution, please submit a new issue.
-        * Submit the PR
+        * Submit the PR/MR
           
 ### TBD 🐻
 
